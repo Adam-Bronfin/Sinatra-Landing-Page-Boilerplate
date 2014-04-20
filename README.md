@@ -1,24 +1,15 @@
-Hello!
+Welcome!
 ====
 
-This is a demonstrator for [Sinatra](http://www.sinatrarb.com/) and [Twitter Bootstrap](http://getbootstrap.com/). 
+I found the hardest part about making our ideas reality is just getting started with the first few percent. So now you have no excuses!
 
-Use it as a boilerplate to start your own apps.
+Including is a basic boiler made from Sinatra + DataMapper running Rack and Bundler.
 
-Go!
-===
+The app serves a landing page to showcase the product, along with a signup section if the user chooses to click through. Included is a simple User class to keep track of emails for early registrants.
 
-Download and run sinatra-bootstrap:
+Hopefully this provides a good starting point to test ideas, and even build upon this application for additional functionality. 
 
-    git clone git@github.com:pokle/sinatra-bootstrap.git
-    
-    cd sinatra-bootstrap
-    bundle install             # To install sinatra
-    
-    bundle exec ruby app.rb    # To run the sample
-	
-Then open [http://localhost:4567/](http://localhost:4567/)
+This application is easily deployable to Heroku so you can get started in a production environment.
 
-What's next?
-============
-- Try the rerun gem to restart Sinatra automatically when you change source files: https://github.com/alexch/rerun
+
+Enjoy!
