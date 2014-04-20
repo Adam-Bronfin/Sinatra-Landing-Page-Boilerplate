@@ -1,0 +1,13 @@
+.success-bar {
+    width: 100%;
+    color: #3C7643;
+    border-color: #85DD8C;
+    background-color: #85DD8C;
+    padding: 15px;
+    border: 1px solid;
+    border-radius: 4px;
+}
+
+.icon {
+    color:green;
+}
